@@ -1,5 +1,5 @@
 
-I'm a BTech student and aspiring developer, passionate about bringing my ideas to life through code.Eager to grow, share insights, and connect with a community of innovators and developers on GitHub.
+I'm a BTech student and aspiring developer, passionate about bringing my ideas to life through code. Eager to grow, share insights, and connect with a community of innovators and developers on GitHub.
 
 <br/>
 
@@ -30,3 +30,11 @@ I'm a BTech student and aspiring developer, passionate about bringing my ideas t
 ### 📊 Stats
 
 ![Prakhar Paawan GitHub Stat's](https://github-readme-stats.vercel.app/api?username=Prakharpaawan&show_icons=true&theme=transparent)
+
+### 🔗 Connect with me
+<p align="center">
+    <a href="https://www.linkedin.com/in/prakhar-paawan/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+    </a>
+</p>
+
